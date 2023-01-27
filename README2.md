@@ -25,6 +25,8 @@ The approach taken involved examining the datasets for information that may be r
 * Within peak months, the top five most profitable genres are Animation, Adventure, Sci-Fi, Action, and Fantasy
 * Animation is the most profitable genre with a median profit 106% greater than the median profit of the group listed above
 
+<img width="463" alt="Director Shortlist" src="https://user-images.githubusercontent.com/66101132/215113972-c40d5a07-2b58-49fc-ada0-d3e8731d51af.png">
+
 * Microsoft should pursure the best directors in the genre based on profitability and ROI. The directors in the table above rank in the top ten in both categories 
 
 ![budget_profit_corr](https://user-images.githubusercontent.com/66101132/215112645-b2b78df0-54d7-42ab-90cc-c4b2ab46cc02.png)
