@@ -15,14 +15,19 @@ The approach taken involved examining the datasets for information that may be r
 
 ## Results
 
+![box_office_sales_by_month](https://user-images.githubusercontent.com/66101132/215112512-df89a175-c3ae-4112-95b9-a080af28a4e4.png)
+
 * Median box office sales fluctuate by month with clear peaks in June, July and November 
 * This trend holds true for both domestic and foreign markets
 
+![genrebyprofit](https://user-images.githubusercontent.com/66101132/215112584-479c22ae-5ce6-47c5-a42a-b51282727571.png)
 
 * Within peak months, the top five most profitable genres are Animation, Adventure, Sci-Fi, Action, and Fantasy
 * Animation is the most profitable genre with a median profit 106% greater than the median profit of the group listed above
 
 * Microsoft should pursure the best directors in the genre based on profitability and ROI. The directors in the table above rank in the top ten in both categories 
+
+![budget_profit_corr](https://user-images.githubusercontent.com/66101132/215112645-b2b78df0-54d7-42ab-90cc-c4b2ab46cc02.png)
 
 * There is a moderately positive correlation between production budget and profit in the animation genre
 * The middle 50% of budgets have a high concentration of movies with outsized profits. This indicates the potential to make large profits without spending more than the median genre budget 
